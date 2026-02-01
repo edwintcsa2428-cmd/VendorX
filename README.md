@@ -1,2 +1,11 @@
-# VendorX
- VendorX is an intelligent procurement optimization system that automatically compares vendors based on price, delivery, and reliability to select the best supplier. It uses concurrent data collection, scoring algorithms, and an interactive dashboard to enable faster, smarter, and cost-effective procurement decisions.
+
+  # Enterprise Dashboard UI Design
+
+  This is a code bundle for Enterprise Dashboard UI Design. The original project is available at https://www.figma.com/design/78oPp0kSoUZ3cH0Q78wOUN/Enterprise-Dashboard-UI-Design.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
